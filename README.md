@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **WEB DEVELOPMENT PROJECTS**
 
-- 📫 How to reach me **yogeshgovari1502@gmail.com**
+- 📫 How to reach me **bhakti.govari09@gmail.com**
 
 - ⚡ Fun fact **I can make Coding Fun XD**
 
