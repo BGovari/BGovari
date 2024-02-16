@@ -6,10 +6,4 @@
 
 Areas of Expertise:
 
-Digital Strategy
-Data Analysis
-Campaign Optimization
-Branding
-Social Media Analytics
-SEO Optimization
-Data Visualization
+Digital Strategy | Data Analysis | Campaign Optimization | Branding | Social Media Analytics | SEO Optimization | Data Visualization
